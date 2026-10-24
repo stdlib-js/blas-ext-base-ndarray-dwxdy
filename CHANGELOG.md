@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-15)
+## Unreleased (2026-10-24)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`6d2f4ad`](https://github.com/stdlib-js/stdlib/commit/6d2f4adc59bc73fb4da964005ff9d74420b65975) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`90fa4c6`](https://github.com/stdlib-js/stdlib/commit/90fa4c6dfa631c48cc8984e036435cadbfa2262f) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`6382fea`](https://github.com/stdlib-js/stdlib/commit/6382fea9dc0e8afee1708b81c3936267a08ce96f) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`9dc69d4`](https://github.com/stdlib-js/stdlib/commit/9dc69d49015e3cf152f08f687b4cf3e9c290aa5b) - **feat:** add C implementation for `blas/ext/base/ndarray/dwxdy` [(#16151)](https://github.com/stdlib-js/stdlib/pull/16151) _(by MJ)_
